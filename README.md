@@ -5,3 +5,6 @@ Designed and developed a multi-agent LLM-based supply chain system to automate d
 Integrated local LLM agents via Ollama to enable context-aware ordering decisions and multi-agent negotiation, balancing local objectives with global system stability. Evaluated performance against baseline policies using metrics such as demand variability and order amplification, demonstrating reduced bullwhip effect and improved coordination.
 
 Deployed the system using FastAPI with an interactive dashboard for real-time simulation and decision analysis.
+
+
+
